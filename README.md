@@ -60,4 +60,3 @@ I analysed **Linux system logs** (`auth.log` and `wtmp`) to identify unauthorize
 
 ---
 
-> 🛡️ *“Cybersecurity is not just about defense—it’s about understanding how systems fail, and building the resilience to recover.”*
