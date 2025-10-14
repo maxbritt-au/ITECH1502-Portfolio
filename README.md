@@ -54,7 +54,7 @@ I analysed **Linux system logs** (`auth.log` and `wtmp`) to identify unauthorize
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maxbritt-au)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxbritt-au)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@federation.edu.au)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maxb@students.federation.edu.au)
 
 </div>
 
