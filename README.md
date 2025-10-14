@@ -1,53 +1,63 @@
-# Hello, I'm Max
+# 👋 Hello, I'm Max
 
-I am a unviersity student currently completing Cybersecurity Fundamentals.
+🎓 I’m a **university student** currently completing **Cybersecurity Fundamentals**, developing hands-on experience in **digital forensics**, **incident response**, and **log analysis**.  
+💡 My long-term goal is to become a **Tier 1 SOC Analyst**, contributing to threat detection, response, and continuous improvement of security operations.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+---
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## 🎯 Objective
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+My goal is to apply my growing knowledge of cybersecurity concepts in **real-world defensive operations**.  
+Through structured learning and practical labs, I aim to strengthen my ability to:
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/maxbritt-au/Brutus-Lab">Brutus Lab</a>|
+- Analyse logs and detect unauthorized access  
+- Investigate and document incidents  
+- Respond to security events using systematic methodologies  
 
+---
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🧠 Skills & Experience
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+| 💻 Skill / Focus Area                         | 🔗 Associated Project |
+|----------------------------------------------|----------------------|
+| SIEM Implementation & Log Analysis           | [Brutus Lab](https://github.com/maxbritt-au/Brutus-Lab) |
+| Digital Forensics & Incident Response (DFIR) | [Brutus Lab](https://github.com/maxbritt-au/Brutus-Lab) |
+| Linux System Log Analysis (`auth.log`, `wtmp`) | [Brutus Lab](https://github.com/maxbritt-au/Brutus-Lab) |
+| Threat Hunting & Investigation Reporting     | [Brutus Lab](https://github.com/maxbritt-au/Brutus-Lab) |
+
+---
+
+## 🧩 Featured Project – [🔍 Brutus Lab (DFIR Investigation)](https://github.com/maxbritt-au/Brutus-Lab)
+
+The **Brutus Lab** is a practical cybersecurity investigation completed through **HackTheBox**.  
+I analysed **Linux system logs** (`auth.log` and `wtmp`) to identify unauthorized SSH access, trace attacker activity, and convert timestamps into UTC to build a complete attack timeline.
+
+**Key Outcomes**
+- 🧾 Identified attacker IP and confirmed manual root login  
+- 🕓 Correlated authentication and session logs into a clear timeline  
+- 🧩 Demonstrated forensic investigation aligned with NIST CSF “Detect” and “Respond” functions  
+- 🧠 Produced a professional report summarizing the full investigation and recommendations  
+
+---
+
+## 🧭 What I’m Currently Learning
+
+- Fundamentals of **incident response** and **threat intelligence**  
+- Core SOC tools and workflows for **alert triage and log correlation**  
+- **Python scripting** for automation in forensic analysis  
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maxbritt-au)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxbritt-au)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your.email@federation.edu.au)
+
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+---
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-<a href="https://github.com/maxbritt-au/Brutus-Lab">Brutus Lab</a>
-
+> 🛡️ *“Cybersecurity is not just about defense—it’s about understanding how systems fail, and building the resilience to recover.”*
